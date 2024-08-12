@@ -1,0 +1,17 @@
+{
+  "name": "js-blockchain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "nodemon main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.2.0",
+    "elliptic": "^6.5.6",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}
