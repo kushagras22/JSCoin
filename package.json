@@ -1,12 +1,12 @@
 {
-  "name": "js-blockchain",
+  "name": "jscoin",
   "version": "1.0.0",
-  "description": "",
+  "description": "a npm package to implement key concepts like Proof of Work, Blockchain Verification, Wallet Generation, and Transaction Signing.",
   "main": "main.js",
   "scripts": {
     "start": "nodemon main.js"
   },
-  "author": "",
+  "author": "Kushagra Sahu",
   "license": "ISC",
   "dependencies": {
     "crypto-js": "^4.2.0",

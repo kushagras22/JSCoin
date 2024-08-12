@@ -20,7 +20,7 @@ JSCoin is a simple implementation of a blockchain using JavaScript, featuring ke
 ### 1. Install Library:
 
 ```bash
-    npm install --save jscoin
+    npm install crypto-js elliptic express nodemon
 ```
 
 ### 2. Generate a keypair:
