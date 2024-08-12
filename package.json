@@ -1,12 +1,12 @@
 {
-  "name": "js-blockchain",
+  "name": "jscoin",
   "version": "1.0.0",
   "description": "",
   "main": "main.js",
   "scripts": {
     "start": "nodemon main.js"
   },
-  "author": "",
+  "author": "Kushagra Sahu",
   "license": "ISC",
   "dependencies": {
     "crypto-js": "^4.2.0",
